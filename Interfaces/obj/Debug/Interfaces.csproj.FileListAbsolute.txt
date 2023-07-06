@@ -1,0 +1,14 @@
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\bin\Debug\Interfaces.dll.config
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\bin\Debug\Interfaces.dll
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\bin\Debug\Interfaces.pdb
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\bin\Debug\Entidades.dll
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\bin\Debug\Entidades.pdb
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\obj\Debug\Interfaces.csprojAssemblyReference.cache
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\obj\Debug\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\obj\Debug\Interfaces.csproj.CopyComplete
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\obj\Debug\Interfaces.dll
+C:\Users\hugov\source\repos\SistemaOdonto\Interfaces\obj\Debug\Interfaces.pdb
